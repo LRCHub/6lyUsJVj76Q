@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "SONG FOR THE WORLD",
+  "base_artist": "雪音クリス(CV:高垣彩陽)",
+  "createdAt": "2026-02-13T23:57:52.493459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Song For The World",
+      "artist": "Nicole",
+      "has_synced": true,
+      "path": "select/01_Song_For_The_World_Nicole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Song for the World",
+      "artist": "Nicole",
+      "has_synced": true,
+      "path": "select/02_Song_for_the_World_Nicole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "全世界會唱的歌 - Song for the World",
+      "artist": "David Tao",
+      "has_synced": true,
+      "path": "select/03_全世界會唱的歌_-_Song_for_the_World_David_Tao.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Song For The World",
+      "artist": "Nicole",
+      "has_synced": false,
+      "path": "select/04_Song_For_The_World_Nicole.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SONG FOR THE WORLD",
+      "artist": "雪音クリス (高垣彩陽)",
+      "has_synced": false,
+      "path": "select/pl_01_SONG_FOR_THE_WORLD_雪音クリス_(高垣彩陽).txt"
+    }
+  ]
+}
